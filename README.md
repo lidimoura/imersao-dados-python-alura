@@ -6,6 +6,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green?style=for-the-badge)
 
+## Link do Projeto
+Podes aceder ao dashboard interativo em tempo real aqui:
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imersao-dados-python-25-alura.streamlit.app/)
+
 ## Visão geral do projeto
 
 Este projeto de Análise Exploratória de Dados (EDA) foi desenvolvido para gerar insights estratégicos sobre as tendências salariais na área de Data Science. O objetivo central é processar uma base de dados de salários globais, identificar padrões de mercado e fornecer inteligência competitiva para profissionais e recrutadores. A análise abrange a limpeza de dados, manipulação de estruturas complexas e visualização interativa de métricas críticas.
@@ -67,6 +71,13 @@ Este gráfico evidencia a evolução do trabalho remoto na área de dados, um fa
 - ✅ **Análise Geográfica**: Mapa mundial com salários médios de Cientista de Dados por país
 - ✅ **Exportação de Dados**: Tabela detalhada com todos os registros filtrados
 
----
 
+## Orientação Técnica
+Este projeto foi desenvolvido durante a Imersão Dados da Alura, com o apoio de:
+* [Guilherme Lima](https://github.com/guilhermeonrails) — Tech Educator na Alura e Professor na USP.
+* [Valquíria Alencar](https://www.linkedin.com/in/valquiria-alencar/) — Senior Data/AI Analyst no Insper.
+* [Vinicius Caridá](https://www.linkedin.com/in/viniciuscarida/) — Especialista em Dados no Itaú.
+
+  
+---
 > *Transparência e Vibe Coding: Este projeto utilizou otimização com IA para estruturação e documentação. No entanto, toda a análise técnica, tomada de decisão sobre estratégia de limpeza de dados, seleção de visualizações e interpretação dos insights são de minha autoria sob orientação das aulas da imersão. A IA foi uma ferramenta complementar para acelerar processos, mantendo total controle sobre a qualidade e direcionamento estratégico do projeto.*
