@@ -21,7 +21,7 @@ anos_disponiveis = sorted(df['ano'].unique())
 anos_selecionados = st.sidebar.multiselect("Ano", anos_disponiveis, default=anos_disponiveis)
 
 # Filtro de Senioridade
-senioridades_disponiveis = sorted(df['senioridade'].unique())
+senioridades_disponiveis = sorted(df['senoridade'].unique())
 senioridades_selecionadas = st.sidebar.multiselect("Senioridade", senioridades_disponiveis, default=senioridades_disponiveis)
 
 # Filtro por Tipo de Contrato
@@ -36,7 +36,7 @@ tamanhos_selecionados = st.sidebar.multiselect("Tamanho da Empresa", tamanhos_di
 # O dataframe principal é filtrado com base nas seleções feitas na barra lateral.
 df_filtrado = df[
     (df['ano'].isin(anos_selecionados)) &
-    (df['senioridade'].isin(senioridades_selecionadas)) &
+    (df['senoridade'].isin(senioridades_selecionadas)) &
     (df['contrato'].isin(contratos_selecionados)) &
     (df['tamanho_empresa'].isin(tamanhos_selecionados))
 ]
