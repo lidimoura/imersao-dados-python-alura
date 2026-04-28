@@ -69,4 +69,4 @@ Este gráfico evidencia a evolução do trabalho remoto na área de dados, um fa
 
 ---
 
-> *Transparência e Vibe Coding: Este projeto utilizou otimização com IA para estruturação e documentação. No entanto, toda a análise técnica, tomada de decisão sobre estratégia de limpeza de dados, seleção de visualizações e interpretação dos insights são de minha autoria. A IA foi uma ferramenta complementar para acelerar processos, mantendo total controle sobre a qualidade e direcionamento estratégico do projeto.*
+> *Transparência e Vibe Coding: Este projeto utilizou otimização com IA para estruturação e documentação. No entanto, toda a análise técnica, tomada de decisão sobre estratégia de limpeza de dados, seleção de visualizações e interpretação dos insights são de minha autoria sob orientação das aulas da imersão. A IA foi uma ferramenta complementar para acelerar processos, mantendo total controle sobre a qualidade e direcionamento estratégico do projeto.*
