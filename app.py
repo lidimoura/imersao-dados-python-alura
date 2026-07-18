@@ -51,8 +51,8 @@ if lang == "PT-BR":
     st.sidebar.divider()
     
     st.sidebar.markdown("### Acessos e Contato")
-    st.sidebar.link_button("Repositorio no GitHub", "https://github.com/lidimoura/nome-do-seu-repo-de-salarios")
-    st.sidebar.link_button("Relatorio Tecnico (Colab)", "https://lidimoura.github.io/nome-do-seu-repo-de-salarios/")
+    st.sidebar.link_button("Repositorio no GitHub", "https://github.com/lidimoura/imersao-dados-python-alura/")
+    st.sidebar.link_button("Relatorio Tecnico (Colab)", "https://github.com/lidimoura/imersao-dados-python-alura/blob/main/Aulas_Imersao_dados_Python_do_programaONE.ipynb")
     st.sidebar.link_button("LinkedIn", "https://linkedin.com/in/lidimoura")
     st.sidebar.link_button("GitHub Profile", "https://github.com/lidimoura")
     
